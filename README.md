@@ -1,8 +1,7 @@
 # Hi! I'm SunightMC
 
 - AvdanOS Developer & Contributor
-- FyreBlitz CEO
-- ArcticOS CTO
+- FyreBlitz & ArcticOS CEO
 - Web Developer
 
 #
